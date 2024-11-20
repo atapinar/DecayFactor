@@ -1,2 +1,2 @@
 # DecayFactor
-decay factor related python algo-scripts 
+decay factor related algo-scripts
